@@ -1,5 +1,5 @@
 # Day 1 Challenge
-The Day 1 challenge simulates a typical pwn deployment that is done over the network (represented as a network service). Participants would usually need to connect to the network and exploit it accordingly 
+The Day 1 challenge simulates a typical pwn deployment that is done over the network (represented as a network service). Participants would usually need to connect to the network and exploit it accordingly.
 ## Pre-Requisites
 Ensure that you have docker installed. To check, run the following command:
 ```
@@ -12,14 +12,14 @@ CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 
 ```
 ## Challenge Setup
-There's already a start script that I have made that will do the following:
-- Remove any instances of the d1_challenge docker image
-- Build the docker image based on the Dockerfile
+There's already a setup script (setup.sh) that I have made that will do the following:
+- Remove any instances of the d1_challenge container and docker image;
+- Build the docker image based on the Dockerfile;
 - Launch a docker container based on the newly-built docker image.
 
 For you, all you need to do is just to clone this repository and run the script:
 ```
-cd pwn_workshop_ntusc/d1/challenge; chmod +x setup.sh; ./setup.sh
+cd pwn_workshop_ntusc/session-1/challenge; chmod +x setup.sh; ./setup.sh
 ```
 
 If all goes well, run the 'docker ps' command and you should see something like this:
@@ -34,6 +34,11 @@ ddf90ddb699c   d1_challenge   "tcpserver -t 50 -u …"   5 minutes ago   Up 5 mi
 To test if it works, use netcat to connect to port 8881 on localhost, like this:
 ```
 nc localhost 8881
+```
+
+Once you are done with the lessons and you want to shut down the environment, run the following script:
+```
+cd pwn_workshop_ntusc/session-1/challenge; chmod +x clean.sh; ./clean.sh
 ```
 ## Tips for the challenge
 - It is not possible for you to just start doing the analysis by compiling the challenge.c code and analysing it from the compiled binary (mainly because it is in a different Linux distro, look at the first line of the Dockerfile).
