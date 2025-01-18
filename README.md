@@ -5,13 +5,13 @@ This is a simple pwn 101 workshop that was designed to introduce participants in
 ### Session 1
 - Quick Recap of Assembly Instructions, Registers and Stack
 - pwndbg and pwntools, a pwn junkie's best friend
--- launching the binary via pwntools
--- sending input via pwntools
--- launching pwndbg while launching the binary from start
+  - launching the binary via pwntools
+  - sending input via pwntools
+  - launching pwndbg while launching the binary from start
 - Buffer Overflow
--- Causing the crash
--- Finding the offset that allows us to control the value of the RIP register.
--- What to do after Buffer Overflow? easiest: ret2win
+  - Causing the crash
+  - Finding the offset that allows us to control the value of the RIP register.
+  - What to do after Buffer Overflow? easiest: ret2win
 ### Session 2
 - Other Buffer Overflow outcomes (ret2shellcode)
 - x64 Syscalls
