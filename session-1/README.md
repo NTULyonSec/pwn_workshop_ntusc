@@ -28,9 +28,9 @@ Part 1: Installation of pwntools
 2. Enter the python interpreter by typing **python** and entering **import pwn**
 3. If there is no error you are good to go
 
-[https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1DrewYaWI2BaEh8hFST7v-mPTBeKpXLsF1UzFxzyIfoSF3tJQkHpYNSNMePfTSiwuBQoforZOGXXR6zSj0AnTz2FtYWzAsAjhLgkZDJ-Hsyoa2BMyKfH6vNZqD74rVW2x9z4vxg?key=_zr6Y7bm0xhbBWpGJRki75P8](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1DrewYaWI2BaEh8hFST7v-mPTBeKpXLsF1UzFxzyIfoSF3tJQkHpYNSNMePfTSiwuBQoforZOGXXR6zSj0AnTz2FtYWzAsAjhLgkZDJ-Hsyoa2BMyKfH6vNZqD74rVW2x9z4vxg?key=_zr6Y7bm0xhbBWpGJRki75P8)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1DrewYaWI2BaEh8hFST7v-mPTBeKpXLsF1UzFxzyIfoSF3tJQkHpYNSNMePfTSiwuBQoforZOGXXR6zSj0AnTz2FtYWzAsAjhLgkZDJ-Hsyoa2BMyKfH6vNZqD74rVW2x9z4vxg?key=_zr6Y7bm0xhbBWpGJRki75P8)
 
-[https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoJXm2RdT4eZ4XL3ue3MN-RJy3mhRjE843lFuY5bSDHWL_-Gf9ucCVhaVDPCuDr1Jz9w2DeoVJrRp_DYBCIeyQiU19gtk_euv2gRinAZ1L73DYXNvBuLjNw_6eSXNXUPxMkHc4cA?key=_zr6Y7bm0xhbBWpGJRki75P8](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoJXm2RdT4eZ4XL3ue3MN-RJy3mhRjE843lFuY5bSDHWL_-Gf9ucCVhaVDPCuDr1Jz9w2DeoVJrRp_DYBCIeyQiU19gtk_euv2gRinAZ1L73DYXNvBuLjNw_6eSXNXUPxMkHc4cA?key=_zr6Y7bm0xhbBWpGJRki75P8)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoJXm2RdT4eZ4XL3ue3MN-RJy3mhRjE843lFuY5bSDHWL_-Gf9ucCVhaVDPCuDr1Jz9w2DeoVJrRp_DYBCIeyQiU19gtk_euv2gRinAZ1L73DYXNvBuLjNw_6eSXNXUPxMkHc4cA?key=_zr6Y7bm0xhbBWpGJRki75P8)
 
 If this does not work, I recommend using a virtual env and installing pwntools in that virtual env. I recommend uv(blazing fast) but you are free to use any  eg Poetry, venv etc
 
