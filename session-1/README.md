@@ -47,13 +47,13 @@ Pwndbg latest requires python3.13 as a dependency, without it new installations 
 
 Alternatively [https://github.com/apogiatzis/gdb-peda-pwndbg-gef](https://github.com/apogiatzis/gdb-peda-pwndbg-gef) allows you to install the peda,pwndbg and gef together which you might be interested in
 
-[https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLWFqRZ5A4BfITx9_Ct8bWpiK54w9D1HngVykF1M0dCy-vamsU1YrQJgNOSIcj6zIWAqu5aCmP57l6Wj6ng8oQ4Gi15H7eXeUz5asAcgbPhgsk9_3kWSffIgxy9wqvzm1zCqWVBg?key=_zr6Y7bm0xhbBWpGJRki75P8](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLWFqRZ5A4BfITx9_Ct8bWpiK54w9D1HngVykF1M0dCy-vamsU1YrQJgNOSIcj6zIWAqu5aCmP57l6Wj6ng8oQ4Gi15H7eXeUz5asAcgbPhgsk9_3kWSffIgxy9wqvzm1zCqWVBg?key=_zr6Y7bm0xhbBWpGJRki75P8)
+![If the systems prompts you for any installation and updates type in yes](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLWFqRZ5A4BfITx9_Ct8bWpiK54w9D1HngVykF1M0dCy-vamsU1YrQJgNOSIcj6zIWAqu5aCmP57l6Wj6ng8oQ4Gi15H7eXeUz5asAcgbPhgsk9_3kWSffIgxy9wqvzm1zCqWVBg?key=_zr6Y7bm0xhbBWpGJRki75P8)
 
-                         If the systems prompts you for any installation and updates type in yes
+                        
 
-[https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHHo9Krwjjz6DvKqnWPiXE2X-YhtVG07v9ttvBRF8ybwV_jbMxxRKDs1cqppr_J9PlVaYomdyjmz5OMAeKAJiHElXRdaHjYygxqyO_7R1Oj5l4g9qKcOfjAFiitdN-eDkIzi0oyA?key=_zr6Y7bm0xhbBWpGJRki75P8](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHHo9Krwjjz6DvKqnWPiXE2X-YhtVG07v9ttvBRF8ybwV_jbMxxRKDs1cqppr_J9PlVaYomdyjmz5OMAeKAJiHElXRdaHjYygxqyO_7R1Oj5l4g9qKcOfjAFiitdN-eDkIzi0oyA?key=_zr6Y7bm0xhbBWpGJRki75P8)
+![pwndbg interface](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHHo9Krwjjz6DvKqnWPiXE2X-YhtVG07v9ttvBRF8ybwV_jbMxxRKDs1cqppr_J9PlVaYomdyjmz5OMAeKAJiHElXRdaHjYygxqyO_7R1Oj5l4g9qKcOfjAFiitdN-eDkIzi0oyA?key=_zr6Y7bm0xhbBWpGJRki75P8)
 
-                                                                              pwndbg interface
+                                                                           
 
 Docker Ce([Source](https://www.kali.org/docs/containers/installing-docker-on-kali/))
 
@@ -72,11 +72,11 @@ Docker Ce([Source](https://www.kali.org/docs/containers/installing-docker-on-kal
 
 Upon successful installation
 
-[https://lh7-rt.googleusercontent.com/docsz/AD_4nXehLc5vmKVsC1DYzkSqNWb26OHS0OTqMgHR8o2edGg_VP46L_z7Uqc7XKArGUJz0f95IMtIt2UfYFFOsRu1GORNR7U43SfZk6-_ctSe5m7sc2kagVK5YWkxHduy7spgh3HU01rc?key=_zr6Y7bm0xhbBWpGJRki75P8](https://lh7-rt.googleusercontent.com/docsz/AD_4nXehLc5vmKVsC1DYzkSqNWb26OHS0OTqMgHR8o2edGg_VP46L_z7Uqc7XKArGUJz0f95IMtIt2UfYFFOsRu1GORNR7U43SfZk6-_ctSe5m7sc2kagVK5YWkxHduy7spgh3HU01rc?key=_zr6Y7bm0xhbBWpGJRki75P8)
+![Upon successful installation](https://lh7-rt.googleusercontent.com/docsz/AD_4nXehLc5vmKVsC1DYzkSqNWb26OHS0OTqMgHR8o2edGg_VP46L_z7Uqc7XKArGUJz0f95IMtIt2UfYFFOsRu1GORNR7U43SfZk6-_ctSe5m7sc2kagVK5YWkxHduy7spgh3HU01rc?key=_zr6Y7bm0xhbBWpGJRki75P8)
 
-[https://lh7-rt.googleusercontent.com/docsz/AD_4nXdf4d1ojGv7krsKW7j_TvBnJZaxz_i27pcyGnHksEP3a-E0lDvrjbAkfY829hcrFJFg5rEkcnBrmOF-Y5H93jusISINOiMEhBC0R_QRi1YUKQjOMKVsh7E5zDKcK_IvIjmeoyoI?key=_zr6Y7bm0xhbBWpGJRki75P8](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdf4d1ojGv7krsKW7j_TvBnJZaxz_i27pcyGnHksEP3a-E0lDvrjbAkfY829hcrFJFg5rEkcnBrmOF-Y5H93jusISINOiMEhBC0R_QRi1YUKQjOMKVsh7E5zDKcK_IvIjmeoyoI?key=_zr6Y7bm0xhbBWpGJRki75P8)
+![Ignore if you see this](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdf4d1ojGv7krsKW7j_TvBnJZaxz_i27pcyGnHksEP3a-E0lDvrjbAkfY829hcrFJFg5rEkcnBrmOF-Y5H93jusISINOiMEhBC0R_QRi1YUKQjOMKVsh7E5zDKcK_IvIjmeoyoI?key=_zr6Y7bm0xhbBWpGJRki75P8)
 
-                                                                            Ignore if you see this
+                                                                           
 
 NAT Setup
 
